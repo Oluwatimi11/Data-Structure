@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\bin\Debug\net6.0\GenericDataStructures.exe
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\bin\Debug\net6.0\GenericDataStructures.deps.json
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\bin\Debug\net6.0\GenericDataStructures.runtimeconfig.json
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\bin\Debug\net6.0\GenericDataStructures.dll
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\bin\Debug\net6.0\GenericDataStructures.pdb
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\GenericDataStructures.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\GenericDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\GenericDataStructures.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\GenericDataStructures.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\GenericDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\GenericDataStructures.dll
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\refint\GenericDataStructures.dll
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\GenericDataStructures.pdb
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\GenericDataStructures.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\GenericDataStructures\GenericDataStructures\obj\Debug\net6.0\ref\GenericDataStructures.dll
